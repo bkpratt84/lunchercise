@@ -1,0 +1,8 @@
+{
+    "env": {
+        "Firebase_Key": "@firebase-key",
+        "Firebase_AuthDomain": "@firebase-auth-domain",
+        "Firebase_ProjectID": "@firebase-project-id",
+        "Firebase_DatabaseURL": "@firebase-database-url"
+      }
+}
